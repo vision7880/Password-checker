@@ -32,4 +32,5 @@ The crack time estimation assumes a brute-force attack at 1 billion guesses per 
 bash
 
 cd password-strength-checker
+
 python password_checker.py
