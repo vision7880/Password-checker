@@ -27,7 +27,8 @@ The crack time estimation assumes a brute-force attack at 1 billion guesses per 
 
 1. Ensure you have Python 3.x installed
 2. Clone this repository:
-   Run the tool:
+https://github.com/vision7880/Password-checker.git
+
 
 bash
 
