@@ -27,4 +27,9 @@ The crack time estimation assumes a brute-force attack at 1 billion guesses per 
 
 1. Ensure you have Python 3.x installed
 2. Clone this repository:
-   
+   Run the tool:
+
+bash
+
+cd password-strength-checker
+python password_checker.py
